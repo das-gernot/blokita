@@ -1,4 +1,5 @@
 # Blokita - Session replay blocklist
+# Last updated: 2021-12-20
 # ----------------------------------------------------------------------------------
 clarity.microsoft.com
 clarity.ms
@@ -6,6 +7,7 @@ clicktale.net
 d10lpsik1i8c69.cloudfront.net #Luckorange
 d2oh4tlt9mrke9.cloudfront.net
 decibelinsight.net
+tracking-cdn.figpii.com
 fullstory.com
 getwisdom.io
 hoverowl.com
