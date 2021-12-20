@@ -1,0 +1,29 @@
+# Blokita - Session replay blocklist
+# ----------------------------------------------------------------------------------
+clarity.microsoft.com
+clarity.ms
+clicktale.net
+d10lpsik1i8c69.cloudfront.net #Luckorange
+d2oh4tlt9mrke9.cloudfront.net
+decibelinsight.net
+fullstory.com
+getwisdom.io
+hoverowl.com
+insights.hotjar.com
+inspectlet.com
+logrocket.com
+luckyorange.com
+mc.yandex.ru
+mouseflow.com
+mousestats.com
+overheat.de
+pixel.convertize.io
+quantummetric.com
+salemove.com
+script.hotjar.com
+seevolution.com
+sessioncam.com
+smartlook.com
+userreplay.net
+vwo.com
+ws.sessioncam.com
