@@ -1,6 +1,3 @@
-# Blokita - Session replay blocklist
-# Last updated: 2021-12-31
-# ----------------------------------------------------------------------------------
 abtasty.com
 clarity.microsoft.com
 clarity.ms
